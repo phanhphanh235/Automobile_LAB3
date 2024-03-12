@@ -12,3 +12,4 @@ D:\HOCKY5\PRN211\LAB3\AutomobileLibrary\obj\Debug\net8.0\refint\AutomobileLibrar
 D:\HOCKY5\PRN211\LAB3\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.pdb
 D:\HOCKY5\PRN211\LAB3\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.genruntimeconfig.cache
 D:\HOCKY5\PRN211\LAB3\AutomobileLibrary\obj\Debug\net8.0\ref\AutomobileLibrary.dll
+D:\HOCKY5\PRN211\LAB3\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.sourcelink.json
